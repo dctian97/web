@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Maganecho",
+			"country": {
+				"code": "JP",
+				"name": "Japan"
+			},
+			"subdivision": {
+				"code": "14",
+				"name": "Kanagawa"
+			},
+			"timezone": "Asia/Tokyo",
+			"latitude": 35.4415,
+			"longitude": 139.626
+		},
+		"timestamp": 1706102597616
+	}
+}
